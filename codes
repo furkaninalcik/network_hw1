@@ -1,0 +1,9 @@
+Gateway -> ssh -i ~/.ssh/id_geni_ssh_rsa e2171643@pc1.instageni.cenic.net -p 27762
+
+u1		-> ssh -i ~/.ssh/id_geni_ssh_rsa e2171643@pc1.instageni.cenic.net -p 27766
+u2		-> ssh -i ~/.ssh/id_geni_ssh_rsa e2171643@pc1.instageni.cenic.net -p 27767
+u3		-> ssh -i ~/.ssh/id_geni_ssh_rsa e2171643@pc1.instageni.cenic.net -p 27768
+
+t1		-> ssh -i ~/.ssh/id_geni_ssh_rsa e2171643@pc1.instageni.cenic.net -p 27763
+t2		-> ssh -i ~/.ssh/id_geni_ssh_rsa e2171643@pc1.instageni.cenic.net -p 27764
+t3		-> ssh -i ~/.ssh/id_geni_ssh_rsa e2171643@pc1.instageni.cenic.net -p 27765
